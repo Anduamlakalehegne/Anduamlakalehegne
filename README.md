@@ -26,7 +26,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td width="60%" align="center">
         <h3>
           <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Frontend"/>
           <br>
