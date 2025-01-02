@@ -26,7 +26,7 @@
 <div>
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td>
         <h3>
           <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Frontend"/>
           <br>
@@ -48,7 +48,7 @@
           <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/>
         </p>
       </td>
-      <td width="50%" align="center">
+      <td>
         <h3>
           <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Backend"/>
           <br>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td>
         <h3>
           <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="DevOps"/>
           <br>
@@ -86,7 +86,7 @@
           <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
         </p>
       </td>
-      <td width="50%" align="center">
+      <td>
         <h3>
           <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Tools"/>
           <br>
