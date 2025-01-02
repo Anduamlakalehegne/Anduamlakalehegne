@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer&center=true&width=380&height=50">
 </div>
 
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="800" height="400" alt="MasterHead">
+</div>
+
 # 👨‍💻 Hi 👋, I'm Anduamlak Alehegne
 
 ## 🚀 Full-Stack Developer | 💡 Problem Solver | 🌐 Tech Enthusiast
@@ -28,8 +32,6 @@
     <tr>
       <td width="50%" align="center">
         <h3>
-          <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Frontend"/>
-          <br>
           Frontend Development
         </h3>
         <p><em>Crafting beautiful and responsive user interfaces</em></p>
@@ -50,8 +52,6 @@
       </td>
       <td width="50%" align="center">
         <h3>
-          <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Backend"/>
-          <br>
           Backend Development
         </h3>
         <p><em>Building robust and scalable server-side solutions</em></p>
@@ -63,16 +63,14 @@
           <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
           <br/>
           <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-          <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle"/>
-          <img src="https://skillicons.dev/icons?i=stripe" width="48" height="48" alt="Stripe"/>
+          <img src="https://skillicons.dev/icons?i=jira" width="48" height="48" alt="Jira"/>
+          <img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack"/>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h3>
-          <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="DevOps"/>
-          <br>
           DevOps & Cloud
         </h3>
         <p><em>Automating deployment and scaling infrastructure</em></p>
@@ -88,7 +86,6 @@
       </td>
       <td width="50%" align="center">
         <h3>
-          <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Tools"/>
           <br>
           Tools & Platforms
         </h3>
@@ -102,6 +99,8 @@
           <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
           <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
           <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Jira"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Slack"/>
         </p>
       </td>
     </tr>
@@ -127,12 +126,26 @@
 
 <div align="center">
   <a href="https://github.com/Anduamlakalehegne/Startup-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=project1&theme=radical" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Startup-Portal&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/Anduamlakalehegne/Project-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=project2&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Manager&theme=radical" alt="Project 2" />
+  </a>
+   <a href="https://github.com/Anduamlakalehegne/Car-Shopping-E-commerce-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Car-Shopping-E-commerce-&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Anduamlakalehegne/Project-Real-Estate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Real-Estate&theme=radical" alt="Project 2" />
   </a>
 </div>
+
+---
+
+## 🏆 Achievements
+<img src="https://img.shields.io/badge/Mars_2020_Contributor-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Mars 2020 Contributor"/>
+<img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Arctic Code Vault Contributor"/>
+<img src="https://img.shields.io/badge/Pull_Shark-32CD32?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark"/>
+<img src="https://img.shields.io/badge/Starstruck-FF69B4?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck"/>
 
 ---
 
