@@ -7,10 +7,10 @@
 ## 🚀 Full-Stack Developer | 💡 Problem Solver | 🌐 Tech Enthusiast
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://anduamlakalehegne.github.io/portfolio"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/anduamlak-alehegne-4632aa219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:anduamlakalehegne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
 <p align="center">
@@ -40,11 +40,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anduamlakalehegne&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anduamlakalehegne&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,11 +52,11 @@
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/Anduamlakalehegne/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/Anduamlakalehegne/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </div>
 
