@@ -99,8 +99,6 @@
           <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
           <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
           <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress"/>
-          <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Jira"/>
-          <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="48" height="48" alt="Slack"/>
         </p>
       </td>
     </tr>
@@ -140,12 +138,6 @@
 </div>
 
 ---
-
-## 🏆 Achievements
-<img src="https://img.shields.io/badge/Mars_2020_Contributor-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Mars 2020 Contributor"/>
-<img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="Arctic Code Vault Contributor"/>
-<img src="https://img.shields.io/badge/Pull_Shark-32CD32?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark"/>
-<img src="https://img.shields.io/badge/Starstruck-FF69B4?style=for-the-badge&logo=github&logoColor=black" alt="Starstruck"/>
 
 ---
 
