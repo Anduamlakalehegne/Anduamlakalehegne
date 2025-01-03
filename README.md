@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer&center=true&width=380&height=50" alt="Welcome Message">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer&center=true&width=380&height=50">
 </div>
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" height="auto" alt="MasterHead" style="max-width: 800px;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="800" height="400" alt="MasterHead">
 </div>
 
 # 👨‍💻 Hi 👋, I'm Anduamlak Alehegne
@@ -28,9 +28,9 @@
 </div>
 
 <div align="center">
-  <table style="width: 100%;">
+  <table>
     <tr>
-      <td style="width: 50%; padding: 10px;" align="center">
+      <td width="50%" align="center">
         <h3>
           Frontend Development
         </h3>
@@ -50,7 +50,7 @@
           <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest"/>
         </p>
       </td>
-      <td style="width: 50%; padding: 10px;" align="center">
+      <td width="50%" align="center">
         <h3>
           Backend Development
         </h3>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td style="width: 50%; padding: 10px;" align="center">
+      <td width="50%" align="center">
         <h3>
           DevOps & Cloud
         </h3>
@@ -84,7 +84,7 @@
           <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
         </p>
       </td>
-      <td style="width: 50%; padding: 10px;" align="center">
+      <td width="50%" align="center">
         <h3>
           <br>
           Tools & Platforms
@@ -105,16 +105,17 @@
   </table>
 </div>
 
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anduamlakalehegne&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anduamlakalehegne&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anduamlakalehegne&theme=radical" alt="GitHub Streak" style="width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anduamlakalehegne&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -123,18 +124,20 @@
 
 <div align="center">
   <a href="https://github.com/Anduamlakalehegne/Startup-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Startup-Portal&theme=radical" alt="Project 1" style="width: 100%; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Startup-Portal&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/Anduamlakalehegne/Project-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Manager&theme=radical" alt="Project 2" style="width: 100%; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Manager&theme=radical" alt="Project 2" />
   </a>
    <a href="https://github.com/Anduamlakalehegne/Car-Shopping-E-commerce-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Car-Shopping-E-commerce-&theme=radical" alt="Project 1" style="width: 100%; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Car-Shopping-E-commerce-&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/Anduamlakalehegne/Project-Real-Estate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Real-Estate&theme=radical" alt="Project 2" style="width: 100%; max-width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anduamlakalehegne&repo=Project-Real-Estate&theme=radical" alt="Project 2" />
   </a>
 </div>
+
+---
 
 ---
 
@@ -146,6 +149,8 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+code+together!&center=true&width=380&height=50" alt="Closing Message">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+code+together!&center=true&width=380&height=50">
 </div>
