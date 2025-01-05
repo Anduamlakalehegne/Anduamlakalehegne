@@ -146,6 +146,7 @@
 - [ ] Master Next.js
 - [ ] Contribute to major open-source projects
 - [ ] Launch a successful SaaS product
+- [ ] Grow as a Full-Stack Developer
 
 ---
 
